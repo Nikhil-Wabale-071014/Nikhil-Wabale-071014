@@ -2,7 +2,7 @@
 <h3 align="center">A passionate front end and back end developer student from India</h3>
 
 
-- 🌱 I’m currently learning **TensorFlow and Pandas**
+- 🌱 I’m currently learning **Power BI and Nodejs**
 
 - 💬 Ask me about **C++,java script and OOP.**
 
